@@ -4,3 +4,5 @@ Classification is based off of patient data points such as age, gender, symptoms
 The dataset was provided through the University but I believe it is also publicly available.
 
 Note that all the data within the dataset is numerical. This is because in the preprocessing, all the categorical data was label-encoded into numerical data as this is what machine learning models work with. 
+
+Most of the code will be found within the 'covid_classification.ipynb' file within the 'notebooks' folder. 
